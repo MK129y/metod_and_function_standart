@@ -1,0 +1,1 @@
+# metod_and_function_standart
